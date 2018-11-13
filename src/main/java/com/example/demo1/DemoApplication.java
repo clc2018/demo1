@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //my-feature
+//the next
 @SpringBootApplication
 public class DemoApplication {
 
