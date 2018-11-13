@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 // F-1
+// F-2
 @SpringBootApplication
 public class DemoApplication {
 
