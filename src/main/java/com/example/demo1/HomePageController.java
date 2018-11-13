@@ -6,9 +6,9 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class HomePageController {
 
-      @RequestMapping("/")
+      @RequestMapping("/h")
       public String homePage() {
-        return "index";
+        return "home.html";
       }
 
   }
