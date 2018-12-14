@@ -1,0 +1,9 @@
+<settings>
+  <mirrors>
+    <mirror>
+      <id>mirror.default</id>
+      <url>http://nexus.jx.vt.k8s-ws.net/repository/maven-group/</url>
+      <mirrorOf>external:*</mirrorOf>
+    </mirror>
+  </mirrors>
+</settings>
